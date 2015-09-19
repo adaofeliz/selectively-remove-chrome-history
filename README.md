@@ -22,7 +22,7 @@ How to use it
 chrome://history-frame/
 ```
 
-Load your Console Debugger
+* Load your Console Debugger
 ```sh
 Windows: Ctrl+Shift+J
 ```
@@ -31,6 +31,9 @@ OSX: Cmd+Alt+J
 ```
 
 * Copy & Paste script.js content to Console
+```sh
+Press F12 and select the "Console" tab
+```
 
 Try it
 --------------
