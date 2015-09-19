@@ -16,7 +16,7 @@ To stop the loop manually, you can now click the red <kbd>Stop</kbd> button. Sim
 
 How to use it
 --------------
-* Open Chrome History: ![chrome://history-frame](chrome://history-frame)
+* Open Chrome History: chrome://history-frame
 * Load your Console Debugger Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>J</kbd> OSX: <kbd>⌘</kbd>+<kbd>⌥</kbd>+<kbd>J</kbd>
 * Copy & Paste script.js content to Console: Press <kbd>F12</kbd> and select the "Console" tab
 
